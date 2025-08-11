@@ -1,4 +1,4 @@
-Agent Email Bot
+Agentic Email RAG Chatbot
 ===============
 
 A LangChain-based RAG agent that answers questions from documents and sends emails automatically.
