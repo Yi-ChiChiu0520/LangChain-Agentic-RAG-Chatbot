@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# macOS system files
+.DS_Store
+
+# IDE / Editor settings
+.idea/
+.vscode/
+
+# Logs & runtime files
+*.log
+chat_logs/
+*.sqlite3
+*.db
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model & embedding files
+*.bin
+*.pt
+*.onnx
+*.pkl
+
+# Chroma DB storage
+chroma_db/
+data/
+
+# PDF or large data files (keep if you want)
+*.pdf
+
+# Node.js modules (if frontend included)
+node_modules/
